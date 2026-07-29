@@ -1,4 +1,4 @@
-Within each folder there is a csv generator and reader.
+Within each folder there is a csv generator and reader 
 The generator needs the root of source folder with this format: SourceFolder/Subject/XXX.acq or SourceFolder/Subject/HRVfolder/XXX.puls
 It also needs a dicom file to align the biosignal to fMRI time length
 The csv generator creates csv files for a single run
